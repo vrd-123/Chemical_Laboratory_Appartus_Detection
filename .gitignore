@@ -1,0 +1,10 @@
+Chemical Apparatus Image Dataset/
+runs/
+*.pt
+*.weights
+*.onnx
+
+yolov5/
+runs/
+*.pt
+*.weights
